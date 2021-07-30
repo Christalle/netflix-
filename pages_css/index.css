@@ -1,0 +1,282 @@
+*{
+    margin: 0;
+    padding: 0;
+} body{
+    background-color: rgb(54, 53, 53);
+    font-size: cover;
+    position: relative;
+}
+.section1{
+    background:linear-gradient(rgba(0, 0, 0, 0.911),rgba(0, 0, 0, 0.103)),url(../images/Netflix.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    position: relative;
+    width: 100%;
+}
+.container{
+    display: flex;
+    position: relative;
+}
+img{
+    height: 120px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.bouton{
+    background-color: rgb(255, 46, 46);
+    border: none;
+    text-decoration: none;
+    font-family: Arial;
+    padding-top: 12px;
+    border-radius: 5px;
+    width:80px;
+    color:white;
+    height: 35px;
+    margin-top:-90px;
+    padding-left:25px;
+    position: relative;
+    display: flex;
+    margin-left: auto;
+    margin-right: 55px;
+}
+.paragraph{
+    color:white;
+    text-align: center;
+    font-family: Arial;
+    margin-top: 280px;
+}
+.pfirst{
+    font-size:50px;
+}
+.psecond{
+    font-size: 50px;
+}
+.pthird{
+    font-size: 25px;
+    margin-top: 35px;
+    margin-left: -10px;
+}
+.pfourth{
+    font-size: 20px;
+    margin-top: 40px;
+}
+.email{
+    height: 60px;
+    width: 600px;
+    font-size: 20px;
+    padding-left: 15px;
+    outline: none;
+}
+.start{
+    background-color: rgb(255, 46, 46);
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 20px;
+    height: 43px;
+    width: 200px;
+    border: none;
+}
+.bloc{
+    display: flex;
+    margin-left:260px;
+    top: 20px;
+    position: relative;
+}
+/*2 ième bloc*/
+.section2{
+    background-color: black;
+    color:white;
+    margin-top:10px;
+    padding-top:150px;
+    height: 350px;
+}
+.title{
+    font-size: 40px;
+    font-family:Arial;
+    color:white;
+    margin-left: 120px;
+}
+.container2{
+    padding-top: 20px;
+    font-size: 20px;
+    margin-left: 120px;
+    font-family: Arial;
+    border-right: 20px;
+}
+.imgtv{
+    position: relative;
+    margin-left: 500px;
+    margin-top: -200px;
+    height: 350px;
+    z-index: 2;
+}
+video{
+    position: relative;
+    margin-top: -300px;
+    display: flex;
+    margin-left: 555px;
+    width: 350px;
+    height: 200px;
+}
+/*3 ième bloc*/
+.section3{
+    background-color: black;
+    margin-top: 10px;
+}
+.phone{
+    height: 350px;
+    width: 500px;
+    margin-top: -155px;
+}
+.titlephone{
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+}
+.title1{
+    color:white;
+    font-size: 40px;
+    font-family: Arial;
+    margin-left:700px;
+    padding-top: 200px;
+}
+.title2{
+    color:white;
+    font-size: 20px;
+    font-family: Arial;
+    margin-left:700px;
+    padding-top: 30px;
+
+}
+/*section 4*/
+.section4{
+    margin-top: 10px;
+    background-color: black;
+    color:white;
+    padding-top: 70px;
+    font-family: Arial;
+    padding-bottom:50px ;
+
+}
+.section4 h1 {
+    padding-left: 80px;
+    font-size: 45px;
+}
+p.section3{
+    font-size: 20px;
+    padding-left: 80px;
+}
+/*cinquième section*/
+.section5{
+    background-color: black;
+    margin-top: 10px;
+    padding-top: 200px;
+    color:white
+}
+.section5 h1{
+    font-size: 40px;
+    font-family: Arial;
+    margin-left: 800px;
+}
+.section5 .resum{
+    font-size:20px ;
+    font-family: Arial;
+    margin-top:20px;
+    margin-left: 800px;
+}
+.imagesection5{
+    height: 500px;
+    margin-top: -343px;
+}
+/*Sièmesection*/
+.section6{
+    background-color: black;
+    margin-top:10px;
+    font-family: Arial;
+    color:white;
+    height: 800px;
+}
+.section6 h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top:35px;
+    margin-bottom: 50px;
+}
+.dropdown{
+    border:none;
+    background-color: rgb(46, 45, 45);
+    padding:20px;
+    width: 800px;
+    margin-left:270px;
+}
+.section6 p{
+    font-size: 20px;
+}
+.fa-plus{
+    margin-left: 600px;
+    color:white;
+}
+.netflix p{
+   margin-top: 10px;
+}
+.start2{
+    background-color: rgb(255, 46, 46);
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 20px;
+    height: 43px;
+    width: 200px;
+    border: none;
+}
+.bloc2{
+    display: flex;
+    margin-left:280px;
+    top: 20px;
+    position: relative;
+}
+footer{
+    margin-top: 10px;
+    background-color: black;
+    color: gray;
+}
+.titlefooter{
+    padding-left: 200px;
+}
+.container_footer{
+    margin-top: 10px;
+    font-family: Arial;
+    padding-top: 150px;
+    padding-right: 200px;
+    padding-bottom: 30px;
+}
+.paragraph2{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+}
+.paragraph2 .p1{
+    padding-top: 20px;
+}
+.footerBlock1{
+    padding-top: 10px;
+}
+.footerBlock2{
+    padding-top: 10px;
+}
+.footerBlock3{
+    padding-top: 10px;
+}
+.footerBlock4{
+    padding-top: 10px;
+}
+.locate{
+    padding-top: 60px;
+    padding-left: 200px;
+}
