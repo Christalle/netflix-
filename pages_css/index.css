@@ -93,6 +93,7 @@ img{
     margin-top:10px;
     padding-top:200px;
     height: 350px;
+    position: relative;
 }
 .title{
     font-size: 45px;
@@ -128,6 +129,7 @@ video{
     background-color: black;
     margin-top: 10px;
     padding-bottom: 50px;
+    position: relative;
 }
 .phone{
     height: 350px;
@@ -181,7 +183,7 @@ video{
     padding-top: 70px;
     font-family: Arial;
     padding-bottom:50px ;
-
+    position: relative;
 }
 .section4 h1 {
     padding-left: 80px;
@@ -196,7 +198,8 @@ p.section3{
     background-color: black;
     margin-top: 10px;
     padding-top: 200px;
-    color:white
+    color:white;
+    position: relative;
 }
 .section5 h1{
     font-size: 40px;
@@ -221,6 +224,7 @@ p.section3{
     font-family: Arial;
     color:white;
     height: 800px;
+    position: relative;
 }
 .section6 h1{
     text-align: center;
